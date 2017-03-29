@@ -15,7 +15,7 @@ You will not serve the customer until every pancake is happy side up, but you do
 
 ## Input
 
-The first line of the input gives the number of test cases, T. T test cases follow. Each consists of one line with a string S, each character of which is either + (which represents a pancake that is initially happy side up) or - (which represents a pancake that is initially blank side up). The string, when read left to right, represents the stack when viewed from top to bottom.
+The first line of the input gives the number of test cases, `T`. `T` test cases follow. Each consists of one line with a string `S`, each character of which is either `+` (which represents a pancake that is initially happy side up) or `-` (which represents a pancake that is initially blank side up). The string, when read left to right, represents the stack when viewed from top to bottom.
 
 ## Output
 
